@@ -72,13 +72,13 @@ This repository is initially based on a [tutorial](https://colab.research.google
 
 ```latex
 @inproceedings{ustun-etal-2022-hyperx,
-    title = "Hyper-X: A Unified Hypernetwork for Multi-Task Multilingual Transfer",
+    title = {Hyper-X: A Unified Hypernetwork for Multi-Task Multilingual Transfer},
     author = {{\"U}st{\"u}n, Ahmet  and
       Bisazza, Arianna  and
       Bouma, Gosse  and
       van Noord, Gertjan and
       Ruder, Sebastian},
-    booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
-    year = "2022",
-    url = "https://arxiv.org/abs/2205.12148",
+    booktitle = {Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+    year = {2022},
+    url = {https://arxiv.org/abs/2205.12148},
 }
