@@ -1,0 +1,6 @@
+transformers==4.15.0
+datasets==1.17.0
+#torch==1.10.0
+seqeval==1.2.2
+conllu==4.4.1
+prettytable==3.0.0
